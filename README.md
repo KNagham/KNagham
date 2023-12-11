@@ -16,7 +16,7 @@
   <a><h2>𝓢𝓽𝓪𝓽𝓾𝓼</h2></a>
   <div>
      <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=KNagham&theme=highcontrast&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=KNagham&theme=onedark&hide_border=true"/>
     </a>
 </div>
    
