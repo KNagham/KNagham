@@ -8,6 +8,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" title="SqlServer" alt="SqlServer" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SqlServer" alt="SqlServer" width="40" height="40"/>&nbsp;
    <img src="https://qph.cf2.quoracdn.net/main-qimg-b2ffb3a32c2e07826c887815599de6f3" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://symfony.com/logos/symfony_white_02.png" title="symfony" width="130" height="35"/>
