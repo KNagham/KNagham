@@ -17,7 +17,7 @@
   
   ---
   <a><h2>𝓢𝓽𝓪𝓽𝓾𝓼</h2></a>
-  <div>
+  <div style="border: none;">
      <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=KNagham&theme=radical" alt="Streak Stats"  />
     </a>
