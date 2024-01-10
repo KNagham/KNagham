@@ -19,7 +19,7 @@
   <a><h2>𝓢𝓽𝓪𝓽𝓾𝓼</h2></a>
   <div>
      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=KNagham&theme=radical" alt="Streak Stats" width="49%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=KNagham&theme=radical" alt="Streak Stats" />
     </a>
  </div>
    
