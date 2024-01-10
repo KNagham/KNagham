@@ -19,7 +19,7 @@
   <a><h2>𝓢𝓽𝓪𝓽𝓾𝓼</h2></a>
   <div>
      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=KNagham&theme=radical" alt="Streak Stats"  />
+        <img src="https://streak-stats.demolab.com/?user=KNagham&theme=radical&hide_border=true" alt="Streak Stats"  />
     </a>
  </div>
    
