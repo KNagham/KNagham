@@ -16,6 +16,10 @@
   
   
   ---
+  <p align="center">
+     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2024"/>
+   </p>
+     
   <a><h2>𝓢𝓽𝓪𝓽𝓾𝓼</h2></a>
   <div style="border: none;">
      <a href="https://git.io/streak-stats">
