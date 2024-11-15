@@ -18,11 +18,16 @@
   ---
       
   <a><h2>𝓢𝓽𝓪𝓽𝓾𝓼</h2></a>
-  <div style="border: none;">
-     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=KNagham&theme=radical" alt="GitHub Streak" />
-    </a>
- </div>
+  <div style="display: flex; gap: 10px;">
+     <div style="border: none;">
+        <a href="https://git.io/streak-stats">
+           <img src="https://streak-stats.demolab.com?user=KNagham&theme=radical" alt="GitHub Streak" />
+       </a>
+       </div>
+   <div>
+    <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub Summary Card" />
+     </div>
+  </div>
 
 
 ---
