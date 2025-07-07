@@ -12,6 +12,8 @@
    <img src="https://symfony.com/logos/symfony_white_02.png" title="symfony" width="130" height="35"/>
    <img src="https://qph.cf2.quoracdn.net/main-qimg-b2ffb3a32c2e07826c887815599de6f3" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
    <img src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" title="GitLab" **alt="GitLab" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
    
   
   
